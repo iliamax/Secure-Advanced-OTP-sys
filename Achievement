@@ -1,0 +1,9 @@
+Here’s a summary of what we’ve achieved:
+
+TOTP Generation: Secure OTP generation using TOTP with SHA-1 or SHA-256.
+Push Notification: Secure OTP delivery via encrypted push notifications (FCM).
+Encryption: Secure OTP secret storage using AES encryption.
+OTP Expiration: Short OTP expiration window (30-60 seconds).
+Key Rotation: Regular rotation of secret keys to avoid key exposure.
+Rate Limiting & CAPTCHA: Protection against brute-force and bot attacks.
+MFA: Combine OTP with other authentication factors to bolster security.
