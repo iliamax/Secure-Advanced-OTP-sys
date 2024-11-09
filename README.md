@@ -35,5 +35,5 @@ Before you begin, ensure you have the following installed:
 ### Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/secure-otp-system.git
+git clone https://github.com/iliamax/secure-otp-system.git
 cd secure-otp-system
